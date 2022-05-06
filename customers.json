@@ -1,0 +1,27 @@
+{"customers":[
+	{ "ID":"1","name": "Leanne Graham","Bank":"SBI", "Branch":"Nanakramguda", "AccountNumber":"503", "Balance":"420000 Inr", "Year":"2020" },
+	{ "ID":"1","name": "Romaguera-Crona","Bank":"SBI", "Branch":"Hyderabad", "AccountNumber":"346", "Balance":"230000 Inr", "Year":"2019" },
+	{ "ID":"1","name":"Rajesh","Bank":"SBI", "Branch":"Kukatpally", "AccountNumber":"259", "Balance":"260000 Inr", "Year":"2018" },
+	{ "ID":"2","name":"Ramesh","Bank":"HDFC", "Branch":"SR nagar", "AccountNumber":"678", "Balance":"160000 Inr", "Year":"2019" },
+	{ "ID":"2","name":"Somesh","Bank":"HDFC", "Branch":"Lingampally", "AccountNumber":"410", "Balance":"230000 Inr", "Year":"2018" },
+	{ "ID":"2","name":"Sunny Reddy","Bank":"HDFC", "Branch":"Karwanga", "AccountNumber":"378", "Balance":"190000 Inr", "Year":"2019" },
+	{ "ID":"3","name":"Harinath","Bank":"ICICI", "Branch":"Hemorika", "AccountNumber":"420", "Balance":"260000 Inr", "Year":"2018" },
+	{ "ID":"3","name":"Raimaika Sen","Bank":"ICICI", "Branch":"Tupi", "AccountNumber":"385", "Balance":"190000 Inr", "Year":"2018" },
+	{ "ID":"3","name":"Yash Konidela","Bank":"ICICI", "Branch":"Erode junction", "AccountNumber":"260", "Balance":"210000 Inr", "Year":"2019" },
+	{ "ID":"4","name":"Priyanka Leone","Bank":"CANARA", "Branch":"Kismatpur", "AccountNumber":"312", "Balance":"200000 Inr", "Year":"2018" },
+	{ "ID":"4","name":"Manchu NagaBabu","Bank":"CANARA", "Branch":"BB nagar", "AccountNumber":"357", "Balance":"260000 Inr", "Year":"2018" },
+	{ "ID":"4","name":"Pilli Babu","Bank":"CANARA", "Branch":"Baba nagar", "AccountNumber":"380", "Balance":"220000 Inr", "Year":"2019" },	
+	{ "ID":"5","name":"Puli Paparao","Bank":"SBH", "Branch":"Jeedimetla5", "AccountNumber":"255", "Balance":"230000 Inr", "Year":"2016" },
+	{ "ID":"5","name":"Silly Somu","Bank":"SBH", "Branch":"Chintal-7", "AccountNumber":"328", "Balance":"200000 Inr", "Year":"2017" },
+	{ "ID":"5","name":"Prudvik","Bank":"SBH", "Branch":"Rampur", "AccountNumber":"345", "Balance":"220000 Inr", "Year":"2017" },
+	{ "ID":"6","name":"Mani kiran","Bank":"PNB Bank", "Branch":"Raze", "AccountNumber":"235", "Balance":"240000 Inr", "Year":"2020" },
+	{ "ID":"6","name":"Satish","Bank":"PNB Bank", "Branch":"Celone", "AccountNumber":"310", "Balance":"210000 Inr", "Year":"2020" },
+	{ "ID":"6","name":"Chary","Bank":"PNB Bank", "Branch":"Aramama", "AccountNumber":"280", "Balance":"210000 Inr", "Year":"2019" },
+	{ "ID":"7","name":"Rohit","Bank":"Axis Bank", "Branch":"Arudra", "AccountNumber":"3", "Balance":"240000 Inr", "Year":"2019" },
+	{ "ID":"7","name":"Praveen","Bank":"Axis Bank", "Branch":"Selkapuram", "AccountNumber":"246", "Balance":"230000 Inr", "Year":"2020" },
+	{ "ID":"7","name":"Sati Pandu","Bank":"Axis Bank", "Branch":"Dehradun", "AccountNumber":"247", "Balance":"210000 Inr", "Year":"2019" }	
+]}
+
+
+
+
